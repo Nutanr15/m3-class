@@ -48,10 +48,14 @@ kubectl apply -f wisecow-service.yaml
 
   1. Build Docker image.
   ![Build and Push](images/build_push.png)
-  3. Push to Docker Hub.
-  4. Deploy updated image to Kubernetes.
+  2. Push to Docker Hub.
+  ![DockerHub](images/dockerhub.png)
+  3. Deploy updated image to Kubernetes.
+  ![Deploy to Minikube](images/deploy_to_minikube.png)
 
-!\[GitHub Actions Workflow]\(images/github\_actions.png)
+![GitHub Actions Workflow](images/github_actions.png)
+
+![Deployed](images/deployed.png)
 
 ---
 
