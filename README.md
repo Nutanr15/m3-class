@@ -47,8 +47,9 @@ kubectl apply -f wisecow-service.yaml
 * Steps:
 
   1. Build Docker image.
-  2. Push to Docker Hub / GitHub Container Registry.
-  3. Deploy updated image to Kubernetes (optional challenge).
+  ![Build and Push](images/build_push.png)
+  3. Push to Docker Hub.
+  4. Deploy updated image to Kubernetes.
 
 !\[GitHub Actions Workflow]\(images/github\_actions.png)
 
