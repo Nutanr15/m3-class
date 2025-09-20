@@ -21,7 +21,7 @@ docker build -t wisecow-app .
 docker run -p 4499:4499 wisecow-app
 ```
 
-!\[Docker Build Success]\(images/docker\_build.png)
+![Docker Build Success](images/docker_build.png)
 
 ---
 
