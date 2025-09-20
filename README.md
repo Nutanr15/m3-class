@@ -36,7 +36,7 @@ kubectl apply -f wisecow-deployment.yaml
 kubectl apply -f wisecow-service.yaml
 ```
 
-!\[Kubernetes Pods]\(images/k8s\_pods.png)
+![Kubernetes Pods](images/k8s_pods.png)
 
 ---
 
