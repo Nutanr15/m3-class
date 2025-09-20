@@ -18,7 +18,7 @@ This project demonstrates **containerization, orchestration, CI/CD, and TLS** fo
 
 ```bash
 docker build -t wisecow-app .
-docker run -p 8080:8080 wisecow-app
+docker run -p 4499:4499 wisecow-app
 ```
 
 !\[Docker Build Success]\(images/docker\_build.png)
