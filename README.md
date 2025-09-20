@@ -65,7 +65,8 @@ kubectl apply -f wisecow-service.yaml
 * Configured **Ingress** with TLS certificate.
 * Verified Wisecow is accessible via HTTPS.
 
-!\[TLS Secured Wisecow]\(images/tls\_https.png)
+![TLS Secured Wisecow](images/tls_https.png)
+![TLS Secured Wisecow](images/tls_https2.png)
 
 ---
 
